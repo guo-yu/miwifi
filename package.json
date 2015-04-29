@@ -1,0 +1,23 @@
+{
+  "name": "miwifi",
+  "version": "0.1.0",
+  "description": "writing miwifi plugins made easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/turingou/miwifi.git"
+  },
+  "keywords": [
+    "miwifi",
+    "xiaomi"
+  ],
+  "author": "turing <o.u.turing@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/miwifi/issues"
+  },
+  "homepage": "https://github.com/turingou/miwifi#readme"
+}
